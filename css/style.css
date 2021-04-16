@@ -62,9 +62,7 @@ nav {
 @media only screen and (max-width:425px){
 
   nav{padding:2rem}
-
-  .main-title{top:50%;}
-
+  
   .text{padding:2rem 1rem;}
   
   .content-images{
