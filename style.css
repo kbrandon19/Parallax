@@ -16,19 +16,7 @@ nav {
   width:100%;
 }
 
-@media only screen and (max-width:425px){
 
-  nav{padding:2rem}
-
-  .main-title{top:50%;}
-
-  .text{padding:2rem 1rem;}
-  
-  .content-images{
-    padding-top:1rem;
-    flex-direction: column;
-  }
-}
 .container{
   height:100vh;
   
@@ -71,7 +59,19 @@ nav {
   font-size:1.1rem;
 }
 
+@media only screen and (max-width:425px){
 
+  nav{padding:2rem}
+
+  .main-title{top:50%;}
+
+  .text{padding:2rem 1rem;}
+  
+  .content-images{
+    padding-top:1rem;
+    flex-direction: column;
+  }
+}
 
 
 
