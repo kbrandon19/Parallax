@@ -17,7 +17,7 @@ timeline.to('.rock', 3, {y:-200})
 //creates a trigger to initiate the animation action
 let scene = new ScrollMagic.Scene({
   triggerElement:"section",
-  duration:"100%",
+  duration:"200%",
   //triggerhook defines where you want to trigger the animation
   // 0 the beginning (top)
   // 1 the end (bottom)
